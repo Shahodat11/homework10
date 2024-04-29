@@ -11,7 +11,7 @@ export default class MainTop extends Component {
                 <h3>Making time a good time by making food the good food.</h3>
                 <p>There are many things are needed to start the Fast Food Business. You need not only Just Food Stalls with Persons but also specialized equipment,</p>
                 <button className='button1'>Order Now</button>
-                <button className='button1'>Food Details</button>
+                <button className='button2'>Food Details</button>
             </div>
             <div className="nav2">
                 <img className='img' src={mainLogo} alt="" />

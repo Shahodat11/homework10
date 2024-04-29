@@ -1,0 +1,45 @@
+.nav-link3{
+    display: flex;
+    padding-top: 110px;
+}
+.h4{
+    font-family: Roboto;
+    font-size: 16px;
+    font-weight: 500;
+    line-height: 24px;
+    letter-spacing: 0.2em;
+    text-align: left;
+    color: #DC780B;
+}
+.nav4{
+    margin-top: 90px;
+    padding-left: 90px;
+}
+.h2{
+    width: 487px;
+    height: 112px;
+    top: 1390.73px;
+    left: 803px;
+    gap: 0px;
+    opacity: 0px;
+    font-family: Philosopher;
+    font-size: 31.25px;
+    font-weight: 700;
+    line-height: 40.63px;
+    text-align: left;
+}
+p{
+    margin-top: 30px;
+    margin-bottom: 30px;
+    width: 487px;
+    height: 76px;
+    top: 1532.73px;
+    left: 803px;
+    gap: 0px;
+    opacity: 0.7px;
+    font-family: Roboto;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 24px;
+    text-align: left;
+}
